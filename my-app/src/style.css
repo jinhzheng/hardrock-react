@@ -1,0 +1,25 @@
+.ui.topmenu.menu {
+  background-color: black;
+  margin: 0px;
+  border-radius: 0px;
+}
+.backgroundpic{
+  background: url("http://www.hardrock.com/cafes/honolulu/files/2384/Honolulu_Entrance.jpg");
+  height: 500px;
+  background-size: cover;
+}
+.footer-background {
+  background-color: #f96d21;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer-one {
+  font-size: 25px;
+}
+
+.ui.menu .item {
+  color: #ccc;
+  font-size: 22px;
+}
